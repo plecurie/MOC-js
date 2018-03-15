@@ -19,10 +19,11 @@
   "dependencies": {
     "body-parser": "1.18.2",
     "chai": "^4.1.2",
+    "expect.js": "^0.3.1",
     "express": "4.16.2",
     "jsonwebtoken": "8.2.0",
     "mocha": "^5.0.4",
-    "mongoose": "4.13.8",
+    "mongoose": "^5.0.10",
     "mongoose-timestamp": "^0.6.0",
     "sha1": "1.1.1"
   }

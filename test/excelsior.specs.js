@@ -1,7 +1,7 @@
 const expect = require('expect.js');
 
 describe('Excelsior', () => {
-    const sut                   = require('../sources/excelsior');
+    const sut                   = require('./excelsior');
     const simple_order          = JSON.stringify(require('./simple_order.json'));
     const complex_order         = JSON.stringify(require('./complex_order.json'));
     const very_complex_order    = JSON.stringify(require('./very_complex_order.json'));
